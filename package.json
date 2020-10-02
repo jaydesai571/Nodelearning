@@ -4,7 +4,9 @@
   "description": "Read me\r Learning NODE.JS with different possibly",
   "main": "1to10tut.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
   },
   "devDependencies": {},
   "scripts": {
